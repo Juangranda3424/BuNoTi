@@ -1,16 +1,54 @@
-# localnotiandroidios
+# Local Noti Android iOS
 
-A new Flutter project.
+Una aplicación Flutter para gestionar notificaciones locales en Android e iOS.
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+Este proyecto
+ es una aplicación Flutter que permite a los usuarios crear, ver y gestionar notificaciones locales. La aplicación cuenta con diferentes plantillas para las notificaciones, incluyendo notificaciones estáticas y detalladas.
 
-A few resources to get you started if this is your first Flutter project:
+## Características
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*   Crear y mostrar notificaciones locales.
+*   Diferentes plantillas para las notificaciones.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*   Pantalla para ver los detalles de las notificaciones.
+*   Soporte para Android e iOS.
+
+## Empezando
+
+Para empezar con este proyecto, clona el repositorio e instala las dependencias:
+
+
+```
+git clone <URL_DEL_REPOSITORIO>
+cd localnoti
+```
+```
+androidios
+flutter pub get
+```
+```
+
+```
+
+
+
+Luego, puedes ejecutar la aplicación:
+
+
+```
+flutter run
+```
+```
+
+```
+
+
+
+## Recursos
+
+Para obtener ayuda para empezar con el desarrollo de Flutter, consulta la
+[documentación en línea](https://docs.flutter.dev/), que ofrece tutoriales,
+ejemplos, orientación
+ sobre desarrollo móvil y una referencia completa de la API.
